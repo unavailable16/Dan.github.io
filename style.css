@@ -1,0 +1,44 @@
+body {
+  min-height: 3000px;
+  box-shadow: black;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(173, 113, 113);
+}
+img.img2 {
+  border-radius: 30px;
+  padding-right: 5px;
+}
+
+#projects {
+  background-color: rgb(173, 113, 113);
+}
+
+#textproject {
+  text-align: center;
+}
+
+#profile {
+  font-weight: bold;
+}
+
+#prodesc {
+  color: white;
+}
+
+.row {
+  padding-top: 50px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.warna1 {
+  color: rgb(175, 50, 50);
+}
+
+html {
+  scroll-behavior: smooth;
+}
